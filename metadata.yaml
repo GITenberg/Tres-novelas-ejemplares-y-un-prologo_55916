@@ -1,0 +1,26 @@
+_repo: Tres-novelas-ejemplares-y-un-prologo_55916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Unamuno, Miguel de
+    aliases:
+    - Jugo, Miguel de Unamuno y
+    - De Unamuno, Miguel
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '5605'
+    url: http://www.gutenberg.org/2009/agents/5605
+    wikipedia: http://en.wikipedia.org/wiki/Miguel_de_Unamuno
+description: ''
+gutenberg_issued: '2017-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55916'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tres novelas ejemplares y un prólogo
+url: http://www.gutenberg.org/ebooks/55916
